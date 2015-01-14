@@ -60,7 +60,7 @@ os.setlocale(os.getenv("LANG"))
 
 -- beautiful init
 -- beautiful.init(os.getenv("HOME") .. "/.config/awesome/themes/steamburn/theme.lua")
-beautiful.init("/home/aovchinnikov/.config/awesome/zenburn/theme.lua")
+beautiful.init("/home/aovchinnikov/.config/awesome/nd/theme.lua")
 -- common
 modkey     = "Mod4"
 altkey     = "Mod1"
